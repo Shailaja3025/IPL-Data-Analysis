@@ -12,7 +12,6 @@ An **interactive Power BI report** built on IPL data with insights into teams, p
 - IPL dataset (CSV/Excel)  
 
 @ Feel free to explore the '«pbix' file and adapt it to your own choice of year .
-Get Interactive Report :https://app.powerbi.com/view?r=eyJrIjoiZmUxMzFlZTEtYmYxOC00ZjIwLWI0MWEtNTc2OTgzOTU3Y2I0IiwidCI6ImU4YzIwODQ1LTFjOWMtNDJjMC04ZmMxLWY1ZjY2Zjg4OWNkYSJ9 
-
+Get Interactive Report :https://app.powerbi.com/view?r=eyJrIjoiZmUxMzFlZTEtYmYxOC00ZjIwLWI0MWEtNTc2OTgzOTU3Y2I0IiwidCI6ImU4YzIwODQ1LTFjOWMtNDJjMC04ZmMxLWY1ZjY2Zjg4OWNkYSJ9&pageName=bf3d1c76827752bca779
   
 
